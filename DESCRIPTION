@@ -1,0 +1,13 @@
+Package: FastMath
+Type: Package
+Title: C++ implementations of mathematical functions from R
+Version: 1.0
+Date: 2019-06-26
+Author: Aaron Kusmec
+Maintainer: Aaron Kusmec <amkusmec@iastate.edu>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+Encoding: UTF-8
+Imports: Rcpp (>= 1.0.1), RcppEigen (>= 0.3.3.5.0)
+LinkingTo: Rcpp, RcppEigen
+RoxygenNote: 6.1.1
