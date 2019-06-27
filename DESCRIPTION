@@ -6,7 +6,7 @@ Date: 2019-06-26
 Author: Aaron Kusmec
 Maintainer: Aaron Kusmec <amkusmec@iastate.edu>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: GNU GPL v3.0
 Encoding: UTF-8
 Imports: Rcpp (>= 1.0.1), RcppEigen (>= 0.3.3.5.0)
 LinkingTo: Rcpp, RcppEigen
